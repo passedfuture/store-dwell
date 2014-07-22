@@ -78,7 +78,7 @@
 		<!--ceshi -->
     </dependencies>
     <repositories>
-<!--测试下-->
+<!--测试下123-->
         <repository>
             <id>cloudera-repo-releases</id>
             <url>https://repository.cloudera.com/artifactory/repo/</url>
